@@ -33,7 +33,7 @@ Half of the closed tickets record a resolution *before* the first response. They
 - Refunds and cancellations together make up 569 of the 1,404 tickets (41%), the ones closest to revenue
 
 **2. Product drives more variation than channel**
-- Product averages range from 10.23 h (LG Washing Machine) down to about 8 h for the rest of the top 15: a 2 h+ spread
+- Among the 15 slowest products, averages run from 10.23 h (LG Washing Machine) to 8.11 h (GoPro Hero): a 2.1 h spread
 - Channel averages sit within 0.65 h of each other: Social media 7.91 h, Email 7.62 h, Chat 7.50 h, Phone 7.26 h
 - Worst product-channel combinations: Garmin Forerunner via Email (12.73 h), Apple AirPods via Phone (12.31 h), LG Washing Machine via Phone (11.98 h)
 

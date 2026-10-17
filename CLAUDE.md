@@ -6,7 +6,7 @@ Portfolio project: analysis of customer support tickets (Kaggle `suraj520/custom
 - `analysis.py` - loads the dataset via `kagglehub` and prints columns and head (starter only)
 - `final_analysis.ipynb` - main analysis notebook
 - `data/`, `images/` - data and chart outputs (`data/` currently empty)
-- `README.md` - empty; needs the portfolio write-up
+- `README.md` - short "Featured Projects" summary (8,469 tickets, key findings); not yet a full write-up
 
 ## Commands (PowerShell, from this folder)
 - `python -m venv .venv` - create a virtual environment (none exists yet)
@@ -20,3 +20,8 @@ Portfolio project: analysis of customer support tickets (Kaggle `suraj520/custom
 - Every number in the README must come from the notebook output; never invent figures
 - Kaggle credentials stay in `$HOME\.kaggle\kaggle.json`; never commit them
 - Keep raw downloaded data out of Git
+
+## Open items
+- README still has a `$X` placeholder for revenue leakage; fill it from the notebook or remove the line
+- README says "reduced refund processing time by 30-40%": the analysis can only estimate this, so word it as a projection, not a result
+- README heading uses an emoji; remove it if I ask for a cleanup
